@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aurora-hideaway/static/css/main.7dff83d7.css",
+    "main.js": "/aurora-hideaway/static/js/main.9ed7d4c2.js",
+    "static/js/453.c435f960.chunk.js": "/aurora-hideaway/static/js/453.c435f960.chunk.js",
+    "index.html": "/aurora-hideaway/index.html",
+    "main.7dff83d7.css.map": "/aurora-hideaway/static/css/main.7dff83d7.css.map",
+    "main.9ed7d4c2.js.map": "/aurora-hideaway/static/js/main.9ed7d4c2.js.map",
+    "453.c435f960.chunk.js.map": "/aurora-hideaway/static/js/453.c435f960.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dff83d7.css",
+    "static/js/main.9ed7d4c2.js"
+  ]
+}
